@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body{
+  background: rgb(56, 57, 56) !important;
+}
+h1{ 
+
+  margin:20px;
+
+}
+
+h1{
+  margin-top: 40px;
+}
+
+div{
+  /* border:2px solid red; */
+  margin:6px;
+  margin-bottom:20px;
+}
